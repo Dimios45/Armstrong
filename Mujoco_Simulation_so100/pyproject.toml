@@ -1,0 +1,9 @@
+[project]
+name = "armstrong"
+version = "0.1.0"
+description = "Simulation og s0100 arm in mujoco"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mujoco>=3.3.3",
+]
